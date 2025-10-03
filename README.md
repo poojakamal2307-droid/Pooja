@@ -1,92 +1,61 @@
-📊 KPI Requirements for Zepto Project
-1. Sales Performance
+🚦 Road Accident Project – KPI Requirements
 
-Total Sales: $1.20M
+📌 Accident Overview
 
-Average Sales per Order: $141
+Total Accidents (overall count)
 
-Sales Trend by Year: Track sales growth from 2020 to 2024.
+Total Fatalities (number of deaths)
 
-Sales by Outlet Size: High ($444.7k), Medium ($249.0k), Small ($507.9k).
+Total Injuries (minor + major injuries)
 
-Sales by Location Tier:
+Fatality Rate (%) = (Fatal Accidents ÷ Total Accidents) × 100
 
-Tier 1 → $336.4k
+Injury Rate (%) = (Injury Cases ÷ Total Accidents) × 100
 
-Tier 2 → $393.0k
+📌 Accident Trends
 
-Tier 3 → $472.1k
+Monthly Accident Trend (line chart to show increase/decrease over time)
 
-Sales by Outlet Type: Supermarkets (Type 1,2,3) vs Grocery Store.
+Peak Accident Hours (time of day with most accidents)
 
-2. Customer & Grocery Insights
+Day vs. Night Accident Ratio
 
-Number of Grocery Items Sold: 8522
+📌 Location-Based KPIs
 
-Average Customer Rating: 4.0 Stars
+Top 5 Accident-Prone States/Cities/Highways
 
-Orders by Fat Content:
+Accident Density per Region (Accidents per 100 km)
 
-Low Fat: $425.4k
+Urban vs Rural Accident Share (%)
 
-Regular: $776.6k
+📌 Vehicle & Cause Insights
 
-3. Product Performance
+Accidents by Vehicle Type (cars, bikes, trucks, buses, etc.)
 
-Top-Selling Item Types (by revenue):
+Top Causes of Accidents (overspeeding, drunk driving, weather, road conditions, etc.)
 
-Fruits & Vegetables → $178.1k
+% of Accidents due to Human Error vs Environmental Factors
 
-Snack Foods → $175.4k
+📌 Severity & Demographics
 
-Household → $136.0k
+Accidents by Severity (fatal, serious, minor)
 
-Frozen Foods → $118.5k
+Age Group-wise Accident Distribution (18–25, 26–40, etc.)
 
-Dairy → $101.3k
+Gender-wise Accident Share
 
-Lowest-Selling Item Types:
+📌 Performance Indicators
 
-Seafood → $9.1k
+Average Response Time (ambulance/police arrival)
 
-Breakfast → $21.5k
+Accident Reduction % (YoY)
 
-Starchy Foods → $28.2k
+% of Fatalities Reduced by Safety Measures (helmet/seatbelt use)
 
-4. Outlet Establishment Insights
+📌 Dashboard View
 
-Sales by Establishment Year:
+Interactive filters: Date, Location, Vehicle type, Cause
 
-2020 → $129.0k
+Dynamic charts: Bar, Line, Pie, Heat Maps
 
-2021 → $132.1k
-
-2022 → $262.0k
-
-2023 → $409.4k (Peak year)
-
-2024 → $208.1k
-
-5. Operational KPIs
-
-Total Outlets: Categorized by Size & Location Tier.
-
-Performance by Outlet Type:
-
-Supermarket Type 1 → $787.4k sales
-
-Supermarket Type 2 → $131.5k sales
-
-Supermarket Type 3 → $130.7k sales
-
-Grocery Store → $151.9k sales
-
-No. of Items Sold by Outlet Type:
-
-Supermarket Type 1 → 5576
-
-Supermarket Type 2 → 928
-
-Supermarket Type 3 → 935
-
-Grocery Store → 1083
+KPI Cards for Accidents, Fatalities, Injuries, Trends
